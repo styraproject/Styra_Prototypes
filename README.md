@@ -6,6 +6,9 @@ Styra prototypes are defined by their layout, button configuration, electronic c
 
 ## Setup Development Environment
 1. Install Arduino IDE (1.6.5)
+2. Install Required Libraries
+  1. Sketch -> Include Libraries -> Manage Libraries
+  2. Adafruit MCP23017 Arduino Library
 1. Document the Sketchbook location
   1. File -> Preferences 
   1. Record the Sketchbook location (/home/lhindman/workspace/Arduino)
