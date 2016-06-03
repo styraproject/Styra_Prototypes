@@ -9,7 +9,7 @@
 #include <Styra_Pointer.h>
 #include <Styra_Pointer_Analog.h>
 
-//#define SERIAL_DEBUG 
+// #define SERIAL_DEBUG 
 
 StyraConfigInternalEEProm config = StyraConfigInternalEEProm();
 StyraControllerBasic controller = StyraControllerBasic(5,11,10,9,6,5);
